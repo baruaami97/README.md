@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on enhancing automation frameworks.<br>  
+👯 I’m looking to collaborate on QA projects and tools.<br>  
+🤝 I’m looking for help with advanced API testing strategies.<br>  
+🌱 I’m currently learning performance testing and CI/CD integration.<br>  
+💬 Ask me about automation testing, Selenium, or Java.<br>  
+⚡ Fun fact: I can spot bugs faster than most people spot typos!  
 
 
 # 💻 Tech Stack:
